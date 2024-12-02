@@ -1,0 +1,9 @@
+# Binary Files
+*
+
+# Puzzle Inputs
+*.txt
+
+# Allow Code
+!/**/
+!*.*
